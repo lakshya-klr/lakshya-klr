@@ -4,6 +4,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00boba&center=true&vCenter=true&width=700&lines=A+Passionate+Designer+-+Developer+based+in+INDIA" alt="Typing SVG" />
     </a>
 </h3>
+<img align="right" alt="a designer's life" width="400" style="border-radius:24px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwenukagtx.medium.com%2Fbecome-useful-as-a-ui-ux-frontend-engineer-5abacb8fe97&psig=AOvVaw2bO3g_Crz8eBB9-eqV4WG1&ust=1720947411434000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPC90ufSo4cDFQAAAAAdAAAAABBH">
 
 - 🔭 I’m currently working on **my Frontend Skills and UX research**
 
