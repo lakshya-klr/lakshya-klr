@@ -1,10 +1,10 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQE_PEtPws0xOA/profile-displaybackgroundimage-shrink_350_1400/0/1720857357859?e=1726099200&v=beta&t=jq3FFBCmxcxJgxcw-dNe8d6LZ-ndhw7-xiHON5-K5uQ)](https://github.com/lakshya-klr)
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=ffd872&center=true&vCenter=true&width=700&lines=A+Passionate+Designer+-+Developer+based+in+INDIA" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=A+Passionate+Designer+-+Developer+based+in+INDIA" alt="Typing SVG" />
     </a>
 </h3>
-<img align="right" alt="a designer's life" width="300"  src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
+<img align="right" alt="a designer's life" width="300"  src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🔭 I’m currently working on **my Frontend Skills and UX research**
 
