@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00boba&center=true&vCenter=true&width=700&lines=A+Passionate+Designer+-+Developer+based+in+INDIA" alt="Typing SVG" />
     </a>
 </h3>
-<img align="right" alt="a designer's life" width="400"  src="https://bradfrost.com/wp-content/uploads/2016/02/frontend-design.gif">
+<img align="right" alt="a designer's life" width="400"  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 🔭 I’m currently working on **my Frontend Skills and UX research**
 
