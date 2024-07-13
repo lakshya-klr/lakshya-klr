@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQE_PEtPws0xOA/profile-displaybackgroundimage-shrink_350_1400/0/1720857357859?e=1726099200&v=beta&t=jq3FFBCmxcxJgxcw-dNe8d6LZ-ndhw7-xiHON5-K5uQ)](https://github.com/lakshya-klr)
 <h1 align="center">A Passionate Designer - Developer Based in India</h1>
-<h3 align="center">A passionate Designer - Developer Based in India</h3>
+
 
 - 🔭 I’m currently working on **my Frontend Skills and UX research**
 
