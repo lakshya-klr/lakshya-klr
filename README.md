@@ -1,16 +1,12 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQE_PEtPws0xOA/profile-displaybackgroundimage-shrink_350_1400/0/1720857357859?e=1726099200&v=beta&t=jq3FFBCmxcxJgxcw-dNe8d6LZ-ndhw7-xiHON5-K5uQ)](https://github.com/lakshya-klr)
-<h1 align="center">Hey there, I'm Lakshya Kalra</h1>
+<h1 align="center">A Passionate Designer - Developer Based in India</h1>
 <h3 align="center">A passionate Designer - Developer Based in India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-klr&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya-klr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-klr" alt="lakshya-klr" /></a> </p>
 
 - 🔭 I’m currently working on **my Frontend Skills and UX research**
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Take a look at my Design Portfolio [https://lakshya-klr.github.io/My-Portfolio-responsive/](https://lakshya-klr.github.io/My-Portfolio-responsive/)
+- 👨‍💻 Take a look at my Design Portfolio [https://lakshya-klr.github.io/UI-portfolio/](https://lakshya-klr.github.io/UI-portfolio/)
 
 - 📝 Take a look at me Developer Portfolio [https://lakshya-klr.github.io/My-Portfolio-responsive/](https://lakshya-klr.github.io/My-Portfolio-responsive/)
 
