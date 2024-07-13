@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=A+Passionate+Designer+-+Developer+based+in+INDIA" alt="Typing SVG" />
     </a>
 </h3>
-<img align="center" alt="a designer's life" width="300"  src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="center" alt="a designer's life" width="1000"  src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🔭 I’m currently working on **my Frontend Skills and UX research**
 
