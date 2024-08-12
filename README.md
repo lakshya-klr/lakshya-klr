@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQF5Iu9_6JXQNQ/profile-displaybackgroundimage-shrink_350_1400/0/1720862759139?e=1726704000&v=beta&t=OEtiN_HsP1SwzOJOiM0VvknW9Uq9PRaN4TP7D6I6YZs)](https://github.com/lakshya-klr)
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=1e1e1e&center=true&vCenter=true&width=700&lines=A+Passionate+Designer+-+Developer+based+in+INDIA" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=de3e1c&center=true&vCenter=true&width=700&lines=A+Passionate+Designer+-+Developer+based+in+INDIA" alt="Typing SVG" />
     </a>
 </h3>
 <img align="right" alt="a designer's life" width="250"  src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
