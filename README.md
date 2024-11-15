@@ -37,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshya-klr&show_icons=true&locale=en" alt="lakshya-klr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-klr&" alt="lakshya-klr" /></p>
-![](https://leetcard.jacoblin.cool/laksh_klr?ext=heatmap)
+![](https://leetcard.jacoblin.cool/laksh-klr?site=cn)
