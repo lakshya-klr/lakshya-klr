@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF5Iu9_6JXQNQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720862759139?e=1732147200&v=beta&t=cgwBokp7aNeH0D750TCGWXOevK9kBTvUyik8mSC0nkg)](https://github.com/lakshya-klr)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF5Iu9_6JXQNQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720862759139?e=1738195200&v=beta&t=1OWz_x_iZkpARa6rXChN3guavPyr4H0lXSrcfZt1PP4)](https://github.com/lakshya-klr)
 <h3 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=de3e1c&center=true&vCenter=true&width=700&lines=A+Passionate+Designer+-+Developer+based+in+INDIA" alt="Typing SVG" />
